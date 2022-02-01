@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Hello
+## This is a test using Atom
+*Created by Amanda Wu on Feb 1, 2022*
+**This is my README file**
